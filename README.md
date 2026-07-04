@@ -72,7 +72,7 @@ Exemplo:
 - Cenário 3:
 E por fim, o Jão gostaria de um resumo em áudio e um Mapa Mental para  aprender com rapidez:
 <img width="1344" height="410" alt="image" src="https://github.com/user-attachments/assets/554c7ead-a983-49fb-8a28-51e94c5d346b" />
-https://drive.google.com/file/d/190Z5zuJSsCDqiJgNIl1fyA-Ipca4WaZa/view?usp=drive_link
+
 
 ## "Ao infinito... e além!"🚀
 1. **Aproveite os Recursos Agênticos (Gemini 3.5 + Antigravity):** Agora, cada notebook possui seu próprio "computador seguro na nuvem". Você pode solicitar que o NotebookLM escreva e execute código para limpar datasets complexos, normalizar dados (como datas e moedas) e realizar cálculos precisos diretamente sobre suas fontes.
