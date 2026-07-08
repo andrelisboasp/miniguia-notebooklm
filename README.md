@@ -59,8 +59,6 @@ Imagine o Marcos,  um correntista do Bradesco leigo em investimentos e que desej
 No NotebookLm-Estúdio-Relatórios, ele poderia criar um relatório (do zero) a partir do prompt:
 _Crie um resumo executivo com os principais pilares estratégicos de investimentos para iniciantes apresentados no documento, destacando a importância da análise de perfil de risco._
 Exemplo: 
-https://notebooklm.google.com/notebook/71c4824e-9ad9-4f7e-9ab1-c7323b6a32e3/artifact/c1257900-b7e4-4947-8f15-5b80ff7b78a9?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
-
 <img width="874" height="532" alt="image" src="https://github.com/user-attachments/assets/e8d7a6f7-0d43-408b-99fb-445734647adc" />
 
 - Cenário 2:
@@ -73,6 +71,8 @@ Exemplo:
 - Cenário 3:
 E por fim, o Marcos gostaria de um resumo em áudio e um Mapa Mental para  aprender com rapidez:
 <img width="1344" height="410" alt="image" src="https://github.com/user-attachments/assets/554c7ead-a983-49fb-8a28-51e94c5d346b" />
+
+Áudio: https://notebooklm.google.com/notebook/71c4824e-9ad9-4f7e-9ab1-c7323b6a32e3/artifact/c1257900-b7e4-4947-8f15-5b80ff7b78a9?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 
 ## "Ao infinito... e além!"🚀
