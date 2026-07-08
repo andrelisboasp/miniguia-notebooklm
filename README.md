@@ -71,7 +71,7 @@ Exemplo:
 - Cenário 3:
 E por fim, o Marcos gostaria de um resumo em áudio e um Mapa Mental para  aprender com rapidez:
 
-| Mapa Mental | Resumo em Áudio|
+| Resumo em Áudio| Mapa Mental|
 | :---:| :---:|
 | Linha 1, Dado A | Linha 1, Dado B |
 | [▶️](https://notebooklm.google.com/notebook/71c4824e-9ad9-4f7e-9ab1-c7323b6a32e3/artifact/c1257900-b7e4-4947-8f15-5b80ff7b78a9?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_) | <img width="1344" height="410" alt="image" src="https://github.com/user-attachments/assets/554c7ead-a983-49fb-8a28-51e94c5d346b" /> |
