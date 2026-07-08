@@ -70,8 +70,9 @@ Exemplo:
 
 - Cenário 3:
 E por fim, o Marcos gostaria de um resumo em áudio e um Mapa Mental para  aprender com rapidez:
+
 | Mapa Mental | Resumo em Áudio|
-| :--- | :--- |
+| :---:| :---:|
 | Linha 1, Dado A | Linha 1, Dado B |
 | Linha 2, Dado A | Linha 2, Dado B |
 
